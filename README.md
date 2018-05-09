@@ -7,7 +7,7 @@ Simple handy manual debuging utils
 ## Install
 
 ```
-composer require trash07/simple-php-debuging
+composer require trash07/simple-php-debuging --dev
 ```
 
 ## Usage
