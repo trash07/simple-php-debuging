@@ -1,0 +1,13 @@
+{
+    "name": "trash07/simple-php-debuging",
+    "description": "Simple PHP debuging tools",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "trash07",
+            "email": "mmkpeto5@gmail.com"
+        }
+    ],
+    "require": {}
+}
