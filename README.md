@@ -6,8 +6,14 @@ Simple handy manual debuging utils
 
 ## Install
 
-```
+```bash
 composer require trash07/simple-php-debuging --dev
+```
+
+## Load dependencies
+
+```php
+require 'vendor/autoload.php'
 ```
 
 ## Usage
